@@ -13,25 +13,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30%"/> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30%"/>
-
 # Hi there 👋 I'm Hafiz Abdul Quddus
 
-• Formal Methods Engineer • AI Researcher • Neuro-Symbolic AI Enthusiast • PhD Aspirant
+• Formal Methods Researcher • AI Engineer • Neuro-Symbolic AI Enthusiast • PhD Aspirant
 
 Focused on AI-assisted formal verification, trustworthy LLM systems, neuro-symbolic reasoning, and intelligent automation.
+
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=Formal+Methods+Engineer;AI+Researcher;Neuro-Symbolic+AI+Enthusiast;LLM+%7C+RAG+%7C+Verification+Systems;Trustworthy+AI+Research" style="border: 4px solid red; border-radius: 12px;"/>
+</p>
+
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+I am a Formal Methods and AI Engineer with research and engineering experience in:
 
 <img align="right" alt="AI" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-<img align="right" alt="Matrix" width="350" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"/>
-
-I am a Formal Methods and AI Engineer with research and engineering experience in:
 
 - AI-assisted Formal Verification
 - Large Language Models (LLMs)
@@ -43,6 +43,8 @@ I am a Formal Methods and AI Engineer with research and engineering experience i
 - PCB Defect Detection & Computer Vision
 - AI for Cyber-Physical Systems
 
+<img align="right" alt="AI" width="350" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
+
 Previously, I worked as a Research Assistant at  
 Heilbronn University of Applied Sciences (Germany) on the German BMBF-funded project **Ki4BoardNet**.
 
@@ -53,7 +55,7 @@ My work focuses on combining symbolic reasoning with modern AI techniques to imp
 ## 🔍 Current Status
 
 🚨 Currently seeking:
-
+<img align="right" alt="AI" width="350" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 - Formal Methods Researcher positions
 - AI Research Engineer roles
 - Verification Engineer opportunities
@@ -61,11 +63,7 @@ My work focuses on combining symbolic reasoning with modern AI techniques to imp
 
 I am actively looking for research and engineering opportunities in academia and industry related to Formal Verification, AI Systems, and Neuro-symbolic Reasoning.
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="450"/>
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350"/>
-
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
+<img align="right" alt="AI" width="350" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
 
 ---
 
@@ -147,6 +145,9 @@ Research Area: AI-assisted Formal Verification
 
 ### University of Sargodha
 **BS Software Engineering**
+
+### Allama Iqbal Open University, Islamabad
+**B.Ed (1.5 Year)**
 
 ---
 
