@@ -111,6 +111,8 @@ I am actively looking for research and engineering opportunities in academia and
 
 ## 📚 Publications & Research
 
+<img align="right" alt="AI" width="350" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXgyYXQ2dThhY2hhZnRiYmJ0cDE5OG90bjJ6MGdlbTJoNDhkNjJrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BWEY1LI6WdaN2/giphy.gif"/>
+
 ### Selected Publications
 
 - **LLM-Assisted Assertion Generation with RAG**  
