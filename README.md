@@ -16,40 +16,58 @@ Here are some ideas to get you started:
 
 # Hi there 👋 I'm Hafiz Abdul Quddus
 
-AI Engineer • Research Assistant • PhD Aspirant  
-Focused on AI-assisted formal verification, LLM systems, and intelligent automation.
+• Formal Methods Engineer • AI Researcher • Neuro-Symbolic AI Enthusiast • PhD Aspirant
+
+Focused on AI-assisted formal verification, trustworthy LLM systems, neuro-symbolic reasoning, and intelligent automation.
 
 ---
 
 ## 🚀 About Me
 
-I am an AI and Software Engineer with a strong background in:
+I am a Formal Methods and AI Engineer with research and engineering experience in:
 
+- AI-assisted Formal Verification
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- Formal Verification & Model Checking
 - Neuro-symbolic AI
-- Automated Reasoning
-- Machine Learning for Engineering Systems
+- Automated Reasoning & Verification
+- SAT/SMT-based Systems
+- Machine Learning for Engineering Applications
 - PCB Defect Detection & Computer Vision
 - AI for Cyber-Physical Systems
 
-Currently, I am working as a Research Assistant at  
+Previously, I worked as a Research Assistant at  
 Heilbronn University of Applied Sciences (Germany) on the German BMBF-funded project **Ki4BoardNet**.
 
-My research focuses on combining symbolic reasoning with modern AI methods to improve reliability, verification, and automation in complex engineering systems.
+My work focuses on combining symbolic reasoning with modern AI techniques to improve reliability, verification, explainability, and automation in complex engineering systems.
 
 ---
 
-## 🧠 Current Research Interests
+## 🔍 Current Status
+
+🚨 Currently seeking:
+
+- Formal Methods Researcher positions
+- AI Research Engineer roles
+- Verification Engineer opportunities
+- Neuro-symbolic AI Research positions
+- PhD opportunities in Formal Methods & Trustworthy AI
+
+I am actively looking for research and engineering opportunities in academia and industry related to Formal Verification, AI Systems, and Neuro-symbolic Reasoning.
+
+---
+
+## 🧠 Research Interests
 
 - AI-assisted Formal Verification
 - Neuro-symbolic AI Systems
 - LLM Reliability & Hallucination Reduction
+- Retrieval-Augmented Generation (RAG)
 - Assertion-based Verification
 - SAT/SMT Solvers
+- Intelligent Verification Systems
 - Verification of Cyber-Physical Systems
-- Intelligent Automotive Systems
+- Explainable & Trustworthy AI
 - Machine Learning for Hardware Verification
 
 ---
@@ -70,21 +88,23 @@ My research focuses on combining symbolic reasoning with modern AI methods to im
 - Transformer Models
 - RAG Pipelines
 - Prompt Engineering
+- LLM-based Systems
 
 ### Backend & Tools
 - Docker
 - Git & GitHub
-- REST APIs
 - Linux
+- REST APIs
 - VS Code
 - LaTeX
 
-### Formal Methods
+### Formal Methods & Verification
 - Model Checking
 - Symbolic Reasoning
-- SMT/SAT Solvers
+- SAT/SMT Solvers
 - SystemVerilog Assertions
 - Automated Verification
+- Formal Specification
 
 ---
 
@@ -114,11 +134,11 @@ My research focuses on combining symbolic reasoning with modern AI methods to im
 
 ### Heilbronn University of Applied Sciences, Germany
 **PhD Aspirant**  
-AI-assisted Formal Verification
+Research Area: AI-assisted Formal Verification
 
 ### Quaid-i-Azam University, Islamabad
 **MPhil in Computer Science**  
-Gold Medalist • CGPA: 3.7/4.0
+🏅 Gold Medalist • CGPA: 3.7/4.0
 
 ### University of Sargodha
 **BS Software Engineering**
@@ -144,16 +164,16 @@ Gold Medalist • CGPA: 3.7/4.0
 
 ---
 
-## 📈 GitHub Goals
+## 📈 GitHub Focus
 
 I use GitHub to share:
 
 - AI research implementations
-- Formal verification tools
+- Formal verification frameworks
 - LLM & RAG experiments
-- Machine learning projects
+- Neuro-symbolic AI projects
 - Research prototypes
-- Automation utilities
+- Automation and engineering utilities
 
 ---
 
