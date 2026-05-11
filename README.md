@@ -21,7 +21,7 @@ Focused on AI-assisted formal verification, trustworthy LLM systems, neuro-symbo
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=Formal+Methods+Engineer;AI+Researcher;Neuro-Symbolic+AI+Enthusiast;LLM+%7C+RAG+%7C+Verification+Systems;Trustworthy+AI+Research" style="border: 4px solid red; border-radius: 12px;"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=Formal+Methods+Engineer;AI+Researcher;Neuro-Symbolic+AI+Enthusiast;LLM+%7C+RAG+%7C+Verification+Systems;Trustworthy+AI+Research"/>
 </p>
 
 
@@ -31,7 +31,7 @@ Focused on AI-assisted formal verification, trustworthy LLM systems, neuro-symbo
 
 I am a Formal Methods and AI Engineer with research and engineering experience in:
 
-<img align="right" alt="AI" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" alt="AI" width="350" height="200" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 - AI-assisted Formal Verification
 - Large Language Models (LLMs)
@@ -42,8 +42,6 @@ I am a Formal Methods and AI Engineer with research and engineering experience i
 - Machine Learning for Engineering Applications
 - PCB Defect Detection & Computer Vision
 - AI for Cyber-Physical Systems
-
-<img align="right" alt="AI" width="350" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 
 Previously, I worked as a Research Assistant at  
 Heilbronn University of Applied Sciences (Germany) on the German BMBF-funded project **Ki4BoardNet**.
@@ -63,11 +61,11 @@ My work focuses on combining symbolic reasoning with modern AI techniques to imp
 
 I am actively looking for research and engineering opportunities in academia and industry related to Formal Verification, AI Systems, and Neuro-symbolic Reasoning.
 
-<img align="right" alt="AI" width="350" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
-
 ---
 
 ## 🧠 Research Interests
+
+<img align="right" alt="AI" width="350" height="200" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
 
 - AI-assisted Formal Verification
 - Neuro-symbolic AI Systems
@@ -135,6 +133,8 @@ I am actively looking for research and engineering opportunities in academia and
 
 ## 🎓 Education
 
+<img align="right" alt="AI" width="350" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjIxb3UzeGJtOTFzdWNnYXQ2djNwZTQwM2s3YnMyZ2EzZWJta2duaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KeytjeDLg2VkLvavra/giphy.gif"/>
+
 ### Heilbronn University of Applied Sciences, Germany
 **PhD Aspirant**  
 Research Area: AI-assisted Formal Verification
@@ -175,11 +175,9 @@ Research Area: AI-assisted Formal Verification
 ## 📈 GitHub Focus
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HafizAQ&show_icons=true&theme=tokyonight"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?user=HafizAQ&show_icons=true&theme=tokyonight"/>  -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HafizAQ&theme=tokyonight"/>
 </p>
-
-![snake gif](https://github.com/HafizAQ/HafizAQ/blob/output/github-snake-dark.svg)
 
 
 I use GitHub to share:
