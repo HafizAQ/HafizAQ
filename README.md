@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30%"/> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30%"/>
 
 # Hi there 👋 I'm Hafiz Abdul Quddus
 
@@ -23,6 +24,12 @@ Focused on AI-assisted formal verification, trustworthy LLM systems, neuro-symbo
 ---
 
 ## 🚀 About Me
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+<img align="right" alt="AI" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+<img align="right" alt="Matrix" width="350" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"/>
 
 I am a Formal Methods and AI Engineer with research and engineering experience in:
 
@@ -54,6 +61,12 @@ My work focuses on combining symbolic reasoning with modern AI techniques to imp
 
 I am actively looking for research and engineering opportunities in academia and industry related to Formal Verification, AI Systems, and Neuro-symbolic Reasoning.
 
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="450"/>
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350"/>
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
+
 ---
 
 ## 🧠 Research Interests
@@ -69,9 +82,17 @@ I am actively looking for research and engineering opportunities in academia and
 - Explainable & Trustworthy AI
 - Machine Learning for Hardware Verification
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Formal+Methods+Engineer;AI+Researcher;Neuro-Symbolic+AI+Enthusiast;LLM+%7C+RAG+%7C+Verification+Systems;Trustworthy+AI+Research" />
+</p>
+
 ---
 
 ## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,tensorflow,pytorch,docker,git,github,linux,vscode" />
+</p>
 
 ### Languages
 • Python • C/C++ • Java • MATLAB • .NET
@@ -138,6 +159,8 @@ Research Area: AI-assisted Formal Verification
 - System Validation & Behavioral Equivalence
 - Programming with Cloud IoT Platforms
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=HafizAQ&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ## 🌍 Connect With Me
@@ -150,6 +173,14 @@ Research Area: AI-assisted Formal Verification
 
 ## 📈 GitHub Focus
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HafizAQ&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HafizAQ&theme=tokyonight"/>
+</p>
+
+![snake gif](https://github.com/HafizAQ/HafizAQ/blob/output/github-snake-dark.svg)
+
+
 I use GitHub to share:
 
 - AI research implementations
@@ -158,6 +189,8 @@ I use GitHub to share:
 - Neuro-symbolic AI projects
 - Research prototypes
 - Automation and engineering utilities
+
+<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100%"/>
 
 ---
 
