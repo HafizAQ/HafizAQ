@@ -50,8 +50,7 @@ My work focuses on combining symbolic reasoning with modern AI techniques to imp
 - Formal Methods Researcher positions
 - AI Research Engineer roles
 - Verification Engineer opportunities
-- Neuro-symbolic AI Research positions
-- PhD opportunities in Formal Methods & Trustworthy AI
+- Neuro-symbolic AI and Trustworthy AI Research positions
 
 I am actively looking for research and engineering opportunities in academia and industry related to Formal Verification, AI Systems, and Neuro-symbolic Reasoning.
 
@@ -75,28 +74,13 @@ I am actively looking for research and engineering opportunities in academia and
 ## 🛠 Tech Stack
 
 ### Languages
-- Python
-- C/C++
-- Java
-- MATLAB
-- .NET
+• Python • C/C++ • Java • MATLAB • .NET
 
 ### AI & Machine Learning
-- PyTorch
-- TensorFlow
-- Scikit-learn
-- Transformer Models
-- RAG Pipelines
-- Prompt Engineering
-- LLM-based Systems
+• PyTorch • TensorFlow • Scikit-learn • Transformer Models • RAG Pipelines • Prompt Engineering/ Fine-Tuning • LLM-based Systems
 
 ### Backend & Tools
-- Docker
-- Git & GitHub
-- Linux
-- REST APIs
-- VS Code
-- LaTeX
+• Docker • Git & GitHub • Linux • REST APIs • VS Code • LaTeX
 
 ### Formal Methods & Verification
 - Model Checking
