@@ -33,6 +33,7 @@ I am a Formal Methods and AI Engineer with research and engineering experience i
 <img align="right" alt="AI" width="350" height="200" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 - AI-assisted Formal Verification
+- Model Checking for the hardware and software design verification
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - Neuro-symbolic AI
