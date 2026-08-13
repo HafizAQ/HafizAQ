@@ -170,7 +170,7 @@ Research Area: AI-assisted Formal Verification
 
 - 💼 LinkedIn: www.linkedin.com/in/hafiz-abdul-quddus-009783233
 - 📘 ResearchGate: www.researchgate.net/profile/Hafiz_Abdul_Quddus
-- 📧 Email: alquddus031@gmail.com
+- 📧 Email: hafiz-abdul.quddus@outlook.com
 
 ---
 
