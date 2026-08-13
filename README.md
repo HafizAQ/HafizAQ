@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋 I'm Hafiz Abdul Quddus
 
-• Formal Methods Researcher • AI Engineer • Neuro-Symbolic AI Enthusiast • PhD Aspirant
+• Formal Methods Researcher • AI Engineer • Neuro-Symbolic AI Enthusiast • PhD Candidate
 
 Focused on AI-assisted formal verification, trustworthy LLM systems, neuro-symbolic reasoning, and intelligent automation.
 
