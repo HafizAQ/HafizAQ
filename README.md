@@ -137,7 +137,7 @@ I am actively looking for research and engineering opportunities in academia and
 
 <img align="right" alt="AI" width="350" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjIxb3UzeGJtOTFzdWNnYXQ2djNwZTQwM2s3YnMyZ2EzZWJta2duaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KeytjeDLg2VkLvavra/giphy.gif"/>
 
-### Heilbronn University of Applied Sciences, Germany
+### Goethe University Frankfurt, Germany
 **PhD Aspirant**  
 Research Area: AI-assisted Formal Verification
 
