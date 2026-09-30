@@ -59,7 +59,7 @@ My work focuses on combining symbolic reasoning with modern AI techniques to imp
 - Verification Engineer opportunities
 - Neuro-symbolic AI and Trustworthy AI Research positions
 
-I am actively looking for research and engineering opportunities in academia and industry related to Formal Verification, AI Systems, and Neuro-symbolic Reasoning.
+I am actively looking for research and engineering opportunities in academia and industry related to Formal Verification, AI Systems, and Neuro-symbolic Reasoning. 
 
 ---
 
@@ -102,7 +102,7 @@ I am actively looking for research and engineering opportunities in academia and
 ### Formal Methods & Verification
 - Model Checking
 - Symbolic Reasoning
-- SAT/SMT Solvers
+- SAT/SMT Solvers 
 - SystemVerilog Assertions
 - Automated Verification
 - Formal Specification
@@ -138,7 +138,7 @@ I am actively looking for research and engineering opportunities in academia and
 <img align="right" alt="AI" width="350" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjIxb3UzeGJtOTFzdWNnYXQ2djNwZTQwM2s3YnMyZ2EzZWJta2duaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KeytjeDLg2VkLvavra/giphy.gif"/>
 
 ### Goethe University Frankfurt, Germany
-**PhD Aspirant**  
+**PhD Candidate**  
 Research Area: AI-assisted Formal Verification
 
 ### Quaid-i-Azam University, Islamabad
