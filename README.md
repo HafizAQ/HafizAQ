@@ -46,7 +46,7 @@ I am a Formal Methods and AI Engineer with research and engineering experience i
 Previously, I worked as a Research Assistant at  
 Heilbronn University of Applied Sciences (Germany) on the German BMBF-funded project **Ki4BoardNet**.
 
-My work focuses on combining symbolic reasoning with modern AI techniques to improve reliability, verification, explainability, and automation in complex engineering systems.
+My work focuses on combining symbolic reasoning with modern AI techniques to improve reliability, verification, explainability, and automation in complex engineering systems. 
 
 ---
 
@@ -59,7 +59,7 @@ My work focuses on combining symbolic reasoning with modern AI techniques to imp
 - Verification Engineer opportunities
 - Neuro-symbolic AI and Trustworthy AI Research positions
 
-I am actively looking for research and engineering opportunities in academia and industry related to Formal Verification, AI Systems, and Neuro-symbolic Reasoning. 
+I am actively looking for research and engineering opportunities in academia and industry related to Formal Verification, AI Systems, and Neuro-symbolic Reasoning.
 
 ---
 
@@ -105,7 +105,7 @@ I am actively looking for research and engineering opportunities in academia and
 - SAT/SMT Solvers 
 - SystemVerilog Assertions
 - Automated Verification
-- Formal Specification
+- Formal Specification 
 
 ---
 
